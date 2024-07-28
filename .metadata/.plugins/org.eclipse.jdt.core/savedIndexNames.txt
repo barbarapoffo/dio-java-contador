@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Babi\Documents\programming\JAVA\bootcamp-dio\validacao-processo-seletivo\.metadata\.plugins\org.eclipse.jdt.core
+356297404.index
+516105447.index
+1865797976.index
